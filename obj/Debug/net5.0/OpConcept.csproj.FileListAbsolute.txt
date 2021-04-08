@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\OpConcept\bin\Debug\net5.0\OpConcept.exe
+C:\Users\user\Desktop\OpConcept\bin\Debug\net5.0\OpConcept.deps.json
+C:\Users\user\Desktop\OpConcept\bin\Debug\net5.0\OpConcept.runtimeconfig.json
+C:\Users\user\Desktop\OpConcept\bin\Debug\net5.0\OpConcept.runtimeconfig.dev.json
+C:\Users\user\Desktop\OpConcept\bin\Debug\net5.0\OpConcept.dll
+C:\Users\user\Desktop\OpConcept\bin\Debug\net5.0\ref\OpConcept.dll
+C:\Users\user\Desktop\OpConcept\bin\Debug\net5.0\OpConcept.pdb
+C:\Users\user\Desktop\OpConcept\obj\Debug\net5.0\OpConcept.csprojAssemblyReference.cache
+C:\Users\user\Desktop\OpConcept\obj\Debug\net5.0\OpConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\OpConcept\obj\Debug\net5.0\OpConcept.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\OpConcept\obj\Debug\net5.0\OpConcept.AssemblyInfo.cs
+C:\Users\user\Desktop\OpConcept\obj\Debug\net5.0\OpConcept.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OpConcept\obj\Debug\net5.0\OpConcept.dll
+C:\Users\user\Desktop\OpConcept\obj\Debug\net5.0\ref\OpConcept.dll
+C:\Users\user\Desktop\OpConcept\obj\Debug\net5.0\OpConcept.pdb
+C:\Users\user\Desktop\OpConcept\obj\Debug\net5.0\OpConcept.genruntimeconfig.cache
